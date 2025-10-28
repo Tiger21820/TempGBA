@@ -1,4 +1,4 @@
-TempGBA version 1.43.1, 2013-06-19!
+TempGBA version 1.43.1, 2013-06-19
 
 A Game Boy Advance emulator for the Supercard DSTWO.
 
@@ -299,6 +299,7 @@ it.
 To make the plugin, `tempgba.plg`, use the `cd` command to change to the
 directory containing your copy of the TempGBA source, then type
 `make clean; make`. `tempgba.plg` should appear in the same directory.
+
 
 
 
