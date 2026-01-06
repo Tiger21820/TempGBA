@@ -1,7 +1,7 @@
 TempGBA version 1.43.1, 2013-06-19
 
 A Game Boy Advance emulator for the Supercard DSTWO.
-
+g
 Based on:
 * gameplaySP (gpSP) 0.9 by Exophase, with help from various GBA developers
 * gpSP Kai unofficial 3.3 by Takka
@@ -299,6 +299,7 @@ it.
 To make the plugin, `tempgba.plg`, use the `cd` command to change to the
 directory containing your copy of the TempGBA source, then type
 `make clean; make`. `tempgba.plg` should appear in the same directory.
+
 
 
 
