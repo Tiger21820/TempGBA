@@ -1,6 +1,6 @@
 TempGBA version 1.43.1, 2013-06-19
 
-A Game Boy Advance emulator for the Supercard DSTWO.
+A Game Boy Advance emulator for the Supercard DSTWO!
 
 Based on:
 * gameplaySP (gpSP) 0.9 by Exophase, with help from various GBA developers
@@ -11,11 +11,11 @@ Based on:
 # Installing
 
 (If you got the source code and want to compile it, see the `Compiling` section
- at the end of the file.)
+ at the end of the file!)
 
 To install the plugin to your storage card, copy `tempgba.plg`, `tempgba.ini`
 and `tempgba.bmp` from the release archive to the card's `_dstwoplug`
-directory. Then, copy the `TEMPGBA` subdirectory to the root of the card.
+directory. Then, copy the `TEMPGBA` subdirectory to the root of the card!
 
 ## The GBA BIOS
 
@@ -299,6 +299,7 @@ it.
 To make the plugin, `tempgba.plg`, use the `cd` command to change to the
 directory containing your copy of the TempGBA source, then type
 `make clean; make`. `tempgba.plg` should appear in the same directory.
+
 
 
 
